@@ -1,4 +1,4 @@
-Project Ideas
+Project Plan
 =============
 <hr>
 Comparative analysis of sentiment of Russian language news sources
