@@ -1,0 +1,12 @@
+#------------------ Jupyter, R  
+.ipynb_checkpoints
+.Rproj.user
+#------------------ common OS config files
+.DS_Store
+.Spotlight-V100
+Thumbs.db
+desktop.ini
+#------------------ directories to ignore
+temp/
+#I'm not really sure what files/directories I'm supposed to put here, it 
+#said include the usual so I just copied the Class-Ex-Repo .gitignore
