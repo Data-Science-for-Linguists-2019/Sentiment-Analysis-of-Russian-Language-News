@@ -1,8 +1,8 @@
 Project Ideas
 =============
 <hr>
-1: Comparative analysis of sentiment of Russian language news sources
-<hr>
+Comparative analysis of sentiment of Russian language news sources
+
 - Summary
 	- I would scrape text from a variety of Russian language news sources, both Russia-based and Western (e.g. Radio Cvoboda and/or BBC Novosti, vs Pravda, RT, and/or Izvestia (I may wanna look up what sources people consider "news" in Russia, Izvestia seems kind of tabloid-y)). I would take articles from the same time period and on the same general topic (either Russia, the US, or World news). Then I would do some sort of analysis on this data. I could probably do something based on just what people/topics appear most common in each source, as well as a sentiment analysis. 
 - Data
