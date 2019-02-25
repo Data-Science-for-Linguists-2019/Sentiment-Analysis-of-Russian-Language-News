@@ -1,8 +1,8 @@
-Project Ideas
+Project Plan
 =============
 <hr>
-1: Comparative analysis of sentiment of Russian language news sources
-<hr>
+Comparative analysis of sentiment of Russian language news sources
+
 - Summary
 	- I would scrape text from a variety of Russian language news sources, both Russia-based and Western (e.g. Radio Cvoboda and/or BBC Novosti, vs Pravda, RT, and/or Izvestia (I may wanna look up what sources people consider "news" in Russia, Izvestia seems kind of tabloid-y)). I would take articles from the same time period and on the same general topic (either Russia, the US, or World news). Then I would do some sort of analysis on this data. I could probably do something based on just what people/topics appear most common in each source, as well as a sentiment analysis. 
 - Data
@@ -17,4 +17,15 @@ Project Ideas
 - Potential difficulties
 	- Many of the websites load the page more as you scroll down. I'm not really sure how this would affect webscraping. Are only the pages that are loaded first available when you request the source code ? Would there be some kind of error ?
 	- Would my manual analysis of sentiment be less valid since I am not at a native level of Russian ? Also, would the number of articles I have to tag in order to make a good classifier be too large for me to read through in a realistic amount of time? Like, if I used 2000 articles, would I need to go through 200 articles or something? Or do I just need to tag enough that my test set has a reasonable error margin?
-    
+- To Do:
+	- Choose set of websites wherefrom to scrape, scrape articles.
+		- Possibly limit the articles based on topic.
+	- Choose method(s) for doing sentiment analysis. I could possibly use multiple techniques and compare the results found with each one.
+		- Option 1: Naive, bag-of-words method based on occurence of positive/negative words, use something like this [WordNet-Affect set](http://lilu.fcim.utm.md/resourcesRoRuWNA_ru.html).
+		- Option 2: Find/create a supervised classifier.
+			- Need to check if one is already available.
+			- Alternatively, I could classify a small number of files myself (say 50 to 100), and create a classifier from this. If the set is too small, the classifier may not be entirely valid as a tool, but it will still be worthwhile to practice creating a classifier myself.
+				- Even if one is already available, I could still try to build one myself and compare the results (if I have extra time). It would probably be good to practice doing this.
+		- Option 3: Clustering. I could use clustering, perhaps in addition to the WordNet-Affect set mentioned above, to see what terms tend to be used with positive/negative emotion words.
+	- Consider what other analysis I could do of my dataset.
+		- What other meaningful metrics could I use?
