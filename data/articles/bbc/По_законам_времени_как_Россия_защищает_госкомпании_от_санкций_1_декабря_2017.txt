@@ -1,0 +1,127 @@
+Правительство разрешило госкомпаниям засекречивать данные о госзакупках, а для оборонного комплекса может быть создан отдельный банк. Так российские власти готовятся встретить американские санкции, считают эксперты. Однако, полагают некоторые из них, эти меры будут полезны и для бизнеса.
+В четверг премьер-министр России Дмитрий Медведев подписал постановление, согласно которому госкомпании смогут не раскрывать подробности контрактов, в частности, не называть своих поставщиков и подрядчиков. Закупку можно будет публиковать без данных о цене, способе и результатах закупки, а также не раскрывая победителя конкурса. Иными словами, известен может стать только сам факт закупки. 
+В полностью закрытом режиме, согласно отдельному постановлению, смогут проводить закупки минобороны, ФСБ и Служба внешней разведки. Эта мера будет действовать до 1 июля 2018 года. При этом такой шаг идет вразрез с политикой российских властей, которые последние несколько лет пытались сделать систему закупок госкомпаний, ведомств и муниципалитетов прозрачнее. 
+Теперь же контракты публиковаться все равно будут, но станет гораздо сложнее найти конкретные данные из-за неструктурированности информации, говорит руководитель аналитического центра "Интерфакс-ProЗакупки" Георгий Сухадольский. 
+Сухадольский считает, что это решение может быть связано с санкциями США против России. "Государство уберегает себя от утечки лишней информации за рубеж", - говорит он.
+Новый закон о санкциях президент США Дональд Трамп подписал в августе. Одно из положений этого закона гласит, что ограничительные меры могут быть наложены на любое лицо, которое осуществляет "существенные транзакции" с компаниями из нового санкционного списка (всего их 39 - и все они имеют отношение к оборонному и разведывательному сектору).
+Это пункт начнет действовать с 29 января 2018 года. Таким образом, США теперь могут распространить санкции на представителей других стран, не только России. Но дело не только в санкциях, считает директор института госзакупок Александр Храмкин. 
+"Объем информации о закупках, который раскрывается в России, избыточен, объем и качество этой информации больше, чем в других странах", - считает он. Храмкин также говорит, что эта информация может быть использована, например, для организации недобросовествной конкуренции со стороны поставщиков. 
+Предписание Медведева также может быть связано и с нежеланием коммерческих компаний играть по правилам, навязанным им государством, считает Александр Строганов, гендиректор Центра размещения государственного заказа.
+"Лобби крупных госкомпаний пытается выдернуть госзакупки из-под госрегулирования, - говорит эксперт. - Бизнес-интересы для них на первом месте, и они не хотят излишнего раскрытия информации, чтобы им не навредить".
+О нелюбви госкомпаний к излишней публичности говорит в комментарии "Ведомостям" и юрист Фонда борьбы с коррупцией Любовь Соболь. По ее мнению, реальная причина связана с наличием у них теневых бюджетов, которые они не хотят раскрывать.
+Что можно прочитать в контрактах?
+Русская служба Би-би-си проанализировала госконтракты компаний и ведомств, входящих в американский санкционный список: "Ростеха", концерна "Калашников", а также ФСБ, СВР и других. 
+Для подсчета использовалась система "СПАРК-Маркетинг", дочерние и подведомственные компании при анализе не учитывались. 
+Оказалось, что госзакупки в 2015-2016 годах совершали 32 участника санкционного списка. Как минимум 12% суммы контрактов (110 млрд рублей) пришлось на иностранные компании и их российские дочерние предприятия. И почти 95% этих контрактов подписал один заказчик - АО "Гражданские самолеты Сухого", производитель гражданских самолетов Sukhoi Superjet. 
+Свыше 60% госзакупок компании приходится на иностранных поставщиков. Но сотрудничество медленно сходит на нет: если в августе-ноябре 2016 года были подписаны контракты на сумму 8,3 млрд рублей, то за такой же период в 2017 году - после публикации списка компаний, попавших под санкции, - сумма оказалась в 6 раз меньше.
+
+    @-webkit-keyframes spinnerRotate
+    {
+        from{-webkit-transform:rotate(0deg);}
+        to{-webkit-transform:rotate(360deg);}
+    }
+    @-moz-keyframes spinnerRotate
+    {
+        from{-moz-transform:rotate(0deg);}
+        to{-moz-transform:rotate(360deg);}
+    }
+    @-ms-keyframes spinnerRotate
+    {
+        from{-ms-transform:rotate(0deg);}
+        to{-ms-transform:rotate(360deg);}
+    }
+    .bbc-news-visual-journalism-loading-spinner {
+        display: block;
+        margin: 10px auto;
+        width: 33px;
+        height: 33px;
+        max-width: 33px;
+        
+        -webkit-animation-name: spinnerRotate;
+        -webkit-animation-duration: 5s;
+        -webkit-animation-iteration-count: infinite;
+        -webkit-animation-timing-function: linear;
+        -moz-animation-name: spinnerRotate;
+        -moz-animation-duration: 5s;
+        -moz-animation-iteration-count: infinite;
+        -moz-animation-timing-function: linear;
+        -ms-animation-name: spinnerRotate;
+        -ms-animation-duration: 5s;
+        -ms-animation-iteration-count: infinite;
+        -ms-animation-timing-function: linear;
+
+        background-image: url('data:image/gif;base64,R0lGODlhIQAhALMAAMPDw/Dw8BAQECAgIICAgHBwcKCgoDAwMFBQULCwsGBgYEBAQODg4JCQkAAAAP///yH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4zLWMwMTEgNjYuMTQ1NjYxLCAyMDEyLzAyLzA2LTE0OjU2OjI3ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjFFOTcwNTgzMDlCMjExRTQ4MDU3RThBRkIxMjYyOEYyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjFFOTcwNTg0MDlCMjExRTQ4MDU3RThBRkIxMjYyOEYyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MUU5NzA1ODEwOUIyMTFFNDgwNTdFOEFGQjEyNjI4RjIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MUU5NzA1ODIwOUIyMTFFNDgwNTdFOEFGQjEyNjI4RjIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4B//79/Pv6+fj39vX08/Lx8O/u7ezr6uno5+bl5OPi4eDf3t3c29rZ2NfW1dTT0tHQz87NzMvKycjHxsXEw8LBwL++vby7urm4t7a1tLOysbCvrq2sq6qpqKempaSjoqGgn56dnJuamZiXlpWUk5KRkI+OjYyLiomIh4aFhIOCgYB/fn18e3p5eHd2dXRzcnFwb25tbGtqaWhnZmVkY2JhYF9eXVxbWllYV1ZVVFNSUVBPTk1MS0pJSEdGRURDQkFAPz49PDs6OTg3NjU0MzIxMC8uLSwrKikoJyYlJCMiISAfHh0cGxoZGBcWFRQTEhEQDw4NDAsKCQgHBgUEAwIBAAAh+QQAAAAAACwAAAAAIQAhAAAE0vDJSScguOrNE3IgyI0bMIQoqUoF6q5jcLigsCzwJrtCAeSjDwoRAI4aLoNxxBCglEtJoFGUKFCEqCRxKkidoIP20aoVDaifFvB8XEGDseQEUjzoDq+87IijEnIPCSlpgWwhDIVyhyKKY4wOD3+BgyF3IXpjfHFvfYF4dmghalGQSgFgDmJaM2ZWWFEEKHYSTW1AojUMFEi3K7kgDRpCIUQkAcQgCDqtIT2kFgWpYVUaOzQ2NwvTIQfVHHw04iCZKibjNAPQMB7oDgiAixjzBOsbEQA7');
+    }
+
+
+define('vjCutsTheMustard', function cutsTheMustard() {
+    return (
+        document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#BasicStructure', '1.1') &&
+        'querySelector' in document &&
+        'localStorage' in window &&
+        'addEventListener' in window
+    );
+});
+
+
+require(["jquery-1", "istats-1"], function ($, istats) {
+  $(function () {
+    
+    var monitorScrolling = function (ev) {
+      if (isElementInViewport(document.getElementById('ns_chart_Sukhoyforeignsuppliers'))) {
+        istats.log(
+          "idt-content",
+          "chart-entered-view",
+          {
+            "project" : "Sukhoyforeignsuppliers",
+            "page"    : window.location.href
+          });
+        window.clearInterval(intervalID);
+      }
+    };
+    
+    var isElementInViewport = function (el) {
+      var rect = el.getBoundingClientRect();
+
+      return (
+        rect.top >= 0 &&
+        rect.left >= 0 &&
+        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+        rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+        );
+    };
+
+    var intervalID = window.setInterval(monitorScrolling, 500);
+    monitorScrolling();
+    
+  });
+});
+
+
+    require.config({
+        paths: {
+            'pym': '//static.bbc.co.uk/indepthtoolkit/15.3.0.361/js/vendor/bower/pym.js/dist/pym.v1.min',
+            'pymManager': '//static.bbc.co.uk/indepthtoolkit/15.3.0.361/js/vendor/bower/news-vj-iframe-wrapper/js/pym-manager'
+        },
+    });
+
+
+    require(['vjCutsTheMustard', 'pymManager'], function (cutsTheMustard, pymManager) {
+        if (cutsTheMustard) {
+            pymManager.init('5c7394b7c6100', '//www.bbc.co.uk/indepthtoolkit/charts/Sukhoyforeignsuppliers?iframe=true&iframeUID=5c7394b7c6100', 'pym', '5c7394b7c6100-core-content');
+        }
+    });
+
+"Оборонный банк"
+В России делаются и другие шаги, которые эксперты расценивают как попытку защититься от американских санкций. В конце ноября в Госдуму внесли законопроект, в котором правительство просит освобождать компании от обязательного раскрытия информации.
+В пояснительной записке говорится, что это необходимо для "обеспечения обороноспособности и безопасности" России. Компании, которым это будет позволено, будет выбирать правительство. Сейчас законопроект находится на рассмотрении у профильного финансового комитета.
+Кроме того, для обслуживания оборонно-промышленного комплекса может быть создан отдельный банк. Об этом в конце ноября сообщила агентству РИА Новости замглавы минобороны Татьяна Шевцова.
+"Рассматриваются разные варианты совершенствования системы. С учетом того, что у нас секретные контракты, с учетом того, что расходы на национальную оборону носят закрытый характер, рассматриваются варианты - в том числе создание и отдельного внутрироссийского банка, который более тщательно обеспечит закрытость наших платежей", - сказала Шевцова.
+Пока неясно, будет ли это создано на основе уже существующего банка или же сформируется отдельная структура. Сейчас с гособоронзаказом могут работать восемь банков - в их числе Сбербанк, ВТБ, Россельхозбанк, Газпромбанк и банк "Россия". 
+Газета "Коммерсант" писала в октябре, что идея создания отдельного "банка для оборонки" прорабатывается с момента подписания президентом США Дональдом Трампом закона "О противодействии противникам Америки посредством санкций" (CAATSA) в начале августа. 
+Что еще подпадает под санкции? 
+Согласно закону, подписанному Трампом в августе, санкции грозят тем, что вкладывает в строительство российских экспортных трубопроводов более 5 млн долларов за год или сразу вкладывает 1 млн долларов.
+Американские компании и физические лица смогут кредитовать российские подсанкционные банки (среди них, к примеру, ВТБ, Сбербанк и Газпромбанк), но только на 14 дней (в предыдущей версии санкций можно было предоставлять им финансирование на 30 дней).
+Компаниям из энергетического сектора, входящим в санкционный список, можно будет получать финансирование только на срок до 60 дней (сейчас этот срок составляет три месяца). 
+Ужесточение по срокам кредитования вступает в силу с 28 ноября.
+Также этим пакетом вводится возможность персональных санкций для отдельных россиян, причастных к нарушениям кибербезопасности, прав человека и коррупции.

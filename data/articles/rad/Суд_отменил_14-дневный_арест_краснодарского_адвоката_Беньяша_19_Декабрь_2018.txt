@@ -1,0 +1,291 @@
+Краснодарский краевой суд отменил решение об аресте адвоката Михаила Беньяша на 14 суток по административному делу о неповиновении полицейскому.
+
+Речь идёт о протоколе, который был составлен на Беньяша после задержания на акции против пенсионной реформы 9 сентября. Тогда, по словам адвоката, полицейские избили его, а потом обвинили его же в попытке вырваться из автомобиля. 
+
+
+
+/*<![CDATA[*/
+initInfographics(
+{
+groups:[],
+params:[],
+isMobile:true
+});
+
+
+#gr-969svg {
+height: 100%;
+margin-bottom: 20px;
+}
+.gr-969svg {
+display: flex;
+flex-direction: column;
+width: 100%;
+}
+.banner {
+float: left;
+height: 100%;
+}
+.gr-969svg-link-tel {
+order: 2;
+width: 100%;
+margin-left: 0;
+margin-top: 5px;
+text-decoration: none;
+}
+.gr-969svg-link-viber {
+order: 3;
+width: 100%;
+margin-left: 0;
+margin-top: 5px;
+text-decoration: none;
+}
+.gr-969svg-link-app {
+order: 1;
+width: 100%;
+margin-left: 0;
+margin-top: 5px;
+text-decoration: none;
+}
+/* TELEGRAM */
+.gr-969svg-tel {
+width: 100%;
+}
+.gr-969svg-tel-wrapper {
+width: 100%;
+height: 50px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+.gr-969svg-tel-txt {
+font-size: 16px;
+font-weight: bold;
+align-self: center;
+color: #8e9499;
+padding: 10px 15px;
+transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.gr-969svg-tel-img {
+background-color: #f7f7f7;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+overflow: hidden;
+}
+.gr-969svg-tel-wrapper:hover > .gr-969svg-tel-txt {
+transform: scale(1.1);
+color: #61a8de;
+}
+.gr-969svg-tel-img:hover {
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+overflow: hidden;
+}
+#gr-969svg-tel-svg {
+fill:#8e9499;
+transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.gr-969svg-tel-wrapper:hover #gr-969svg-tel-svg {
+transform: scale(1.1);
+fill: #61a8de;
+}
+/* APP */
+.gr-969svg-app {
+width: 100%;
+}
+.gr-969svg-app-wrapper {
+display: block;
+width: 100%;
+height: 50px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+.gr-969svg-app-txt {
+font-size: 16px;
+font-weight: bold;
+align-self: center;
+color: #8e9499;
+padding: 10px 15px;
+transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.gr-969svg-app-img {
+background-color: #f7f7f7;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+overflow: hidden;
+}
+.gr-969svg-app-wrapper:hover > .gr-969svg-app-txt {
+transform: scale(1.1);
+color: #ea6903;
+}
+.gr-969svg-app-img:hover {
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+overflow: hidden;
+}
+.gr-969svg-app-svg-flex {
+margin-right: 10px;
+}
+#gr-969svg-app-svg {
+fill:#8e9499;
+transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.gr-969svg-app-wrapper:hover #gr-969svg-app-svg {
+transform: scale(1.1);
+fill: #ea6903;
+}
+/* VIBER */
+.gr-969svg-viber {
+width: 100%;
+}
+.gr-969svg-viber-wrapper {
+display: block;
+width: 100%;
+height: 50px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+.gr-969svg-viber-txt {
+font-size: 16px;
+font-weight: bold;
+align-self: center;
+color: #8e9499;
+padding: 10px 15px;
+transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.gr-969svg-viber-img {
+background-color: #f7f7f7;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+overflow: hidden;
+}
+.gr-969svg-viber-wrapper:hover > .gr-969svg-viber-txt {
+transform: scale(1.1);
+color: #7d539d;
+}
+.gr-969svg-viber-img:hover {
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+overflow: hidden;
+}
+.gr-969svg-viber-svg-flex {
+margin-right: 10px;
+}
+#gr-969svg-viber-svg {
+fill:#8e9499;
+transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.gr-969svg-viber-wrapper:hover #gr-969svg-viber-svg {
+transform: scale(1.1);
+fill: #7D539D;
+}
+@media (min-width:540px) {
+.gr-969svg {
+display: flex;
+flex-direction: row;
+align-content: stretch;
+width: 100%;
+}
+/* TELEGRAM */
+.gr-969svg-link-tel {
+order: 2;
+width: 100%;
+margin-top: 0;
+margin-left: 10px;
+}
+.gr-969svg-tel-txt {
+font-size: 14px;
+padding: 10px 5px;
+margin-left: 5px;
+}
+.gr-969svg-tel-wrapper:hover > .gr-969svg-tel-txt {
+transform: scale(1.05);
+}
+/* APP */
+.gr-969svg-link-app {
+order: 1;
+width: 100%;
+margin-top: 0;
+}
+.gr-969svg-app-txt {
+font-size: 14px;
+padding: 10px 5px;
+margin-left: 5px;
+}
+.gr-969svg-app-wrapper:hover > .gr-969svg-app-txt {
+transform: scale(1.05);
+}
+/* VIBER */
+.gr-969svg-link-viber {
+order: 3;
+width: 100%;
+margin-top: 0;
+margin-left: 10px;
+}
+.gr-969svg-viber-txt {
+font-size: 14px;
+padding: 10px 5px;
+margin-left: 5px;
+}
+.gr-969svg-viber-wrapper:hover > .gr-969svg-viber-txt {
+transform: scale(1.05);
+}
+}
+
+
+
+
+
+
+
+РС в Телеграме
+
+
+
+
+
+
+
+
+
+РС в Вайбере
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+РС в мобильном
+
+
+
+
+
+
+
+
+
+
+При этом Беньяш не оценивает решение суда позитивно. По его мнению, оно может быть обусловлено желанием обеспечить правовое сопровождение уголовного дела, заведённого на него же по итогам акции 9 сентября. Адвокат пояснил, что уголовное деяние поглощает административное. Он также сообщил, что следствие торопится передать до конца года материалы дела в прокуратуру, чтобы уже в январе суд начал рассматривать его по существу.
+На прошлой неделе краснодарскому адвокату Михаилу Беньяшу, известному по защите местных оппозиционных активистов и обманутых дольщиков, было официально предъявлено обвинение в "применении насилия в отношении представителя власти, не опасного для жизни или здоровья". Ему грозит до пяти лет лишения свободы.
+По версии следствия, 9 сентября, находясь в полицейской машине после задержания, Беньяш напал на сотрудников правоохранительных органов, укусив одного из них за палец. При этом на фотографиях, сделанных после задержания, видны ссадины и кровоподтеки у самого Беньяша.
+В сентябре суд арестовал адвоката на два месяца, однако месяцем позже отпустил его под залог в 600 тысяч рублей.
+​
+

@@ -1,0 +1,316 @@
+По итогам мая Россия выбыла из перечня крупнейших держателей американских гособлигаций. Снижение портфеля бондов США в резервах Банка России эксперты объясняют как экономическими, так и политическими причинами.
+Российский центробанк в мае ускорил распродажу гособлигаций США, свидетельствуют данные статистики американского минфина. Стоимость портфеля бондов, которым владеет ЦБ, снизилась с 48,7 до 14,9 млрд долларов.
+В итоге Россия больше не фигурирует в списке крупнейших держателей гособлигаций США, в который входят 33 страны. Крупнейшим кредитором по объему портфеля бондов США остается Китай, который скупил ценные бумаги на 1,18 трлн долларов. На последнем месте в списке находится Чили с показателем в 30 млрд долларов.
+
+    @-webkit-keyframes spinnerRotate
+    {
+        from{-webkit-transform:rotate(0deg);}
+        to{-webkit-transform:rotate(360deg);}
+    }
+    @-moz-keyframes spinnerRotate
+    {
+        from{-moz-transform:rotate(0deg);}
+        to{-moz-transform:rotate(360deg);}
+    }
+    @-ms-keyframes spinnerRotate
+    {
+        from{-ms-transform:rotate(0deg);}
+        to{-ms-transform:rotate(360deg);}
+    }
+    .bbc-news-visual-journalism-loading-spinner {
+        display: block;
+        margin: 10px auto;
+        width: 33px;
+        height: 33px;
+        max-width: 33px;
+        
+        -webkit-animation-name: spinnerRotate;
+        -webkit-animation-duration: 5s;
+        -webkit-animation-iteration-count: infinite;
+        -webkit-animation-timing-function: linear;
+        -moz-animation-name: spinnerRotate;
+        -moz-animation-duration: 5s;
+        -moz-animation-iteration-count: infinite;
+        -moz-animation-timing-function: linear;
+        -ms-animation-name: spinnerRotate;
+        -ms-animation-duration: 5s;
+        -ms-animation-iteration-count: infinite;
+        -ms-animation-timing-function: linear;
+
+        background-image: url('data:image/gif;base64,R0lGODlhIQAhALMAAMPDw/Dw8BAQECAgIICAgHBwcKCgoDAwMFBQULCwsGBgYEBAQODg4JCQkAAAAP///yH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4zLWMwMTEgNjYuMTQ1NjYxLCAyMDEyLzAyLzA2LTE0OjU2OjI3ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjFFOTcwNTgzMDlCMjExRTQ4MDU3RThBRkIxMjYyOEYyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjFFOTcwNTg0MDlCMjExRTQ4MDU3RThBRkIxMjYyOEYyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MUU5NzA1ODEwOUIyMTFFNDgwNTdFOEFGQjEyNjI4RjIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MUU5NzA1ODIwOUIyMTFFNDgwNTdFOEFGQjEyNjI4RjIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4B//79/Pv6+fj39vX08/Lx8O/u7ezr6uno5+bl5OPi4eDf3t3c29rZ2NfW1dTT0tHQz87NzMvKycjHxsXEw8LBwL++vby7urm4t7a1tLOysbCvrq2sq6qpqKempaSjoqGgn56dnJuamZiXlpWUk5KRkI+OjYyLiomIh4aFhIOCgYB/fn18e3p5eHd2dXRzcnFwb25tbGtqaWhnZmVkY2JhYF9eXVxbWllYV1ZVVFNSUVBPTk1MS0pJSEdGRURDQkFAPz49PDs6OTg3NjU0MzIxMC8uLSwrKikoJyYlJCMiISAfHh0cGxoZGBcWFRQTEhEQDw4NDAsKCQgHBgUEAwIBAAAh+QQAAAAAACwAAAAAIQAhAAAE0vDJSScguOrNE3IgyI0bMIQoqUoF6q5jcLigsCzwJrtCAeSjDwoRAI4aLoNxxBCglEtJoFGUKFCEqCRxKkidoIP20aoVDaifFvB8XEGDseQEUjzoDq+87IijEnIPCSlpgWwhDIVyhyKKY4wOD3+BgyF3IXpjfHFvfYF4dmghalGQSgFgDmJaM2ZWWFEEKHYSTW1AojUMFEi3K7kgDRpCIUQkAcQgCDqtIT2kFgWpYVUaOzQ2NwvTIQfVHHw04iCZKibjNAPQMB7oDgiAixjzBOsbEQA7');
+    }
+
+
+define('vjCutsTheMustard', function cutsTheMustard() {
+    return (
+        document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#BasicStructure', '1.1') &&
+        'querySelector' in document &&
+        'localStorage' in window &&
+        'addEventListener' in window
+    );
+});
+
+
+require(["jquery-1", "istats-1"], function ($, istats) {
+  $(function () {
+    
+    var monitorScrolling = function (ev) {
+      if (isElementInViewport(document.getElementById('ns_chart_usdebt'))) {
+        istats.log(
+          "idt-content",
+          "chart-entered-view",
+          {
+            "project" : "usdebt",
+            "page"    : window.location.href
+          });
+        window.clearInterval(intervalID);
+      }
+    };
+    
+    var isElementInViewport = function (el) {
+      var rect = el.getBoundingClientRect();
+
+      return (
+        rect.top >= 0 &&
+        rect.left >= 0 &&
+        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+        rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+        );
+    };
+
+    var intervalID = window.setInterval(monitorScrolling, 500);
+    monitorScrolling();
+    
+  });
+});
+
+
+    require.config({
+        paths: {
+            'pym': '//static.bbc.co.uk/indepthtoolkit/15.3.0.361/js/vendor/bower/pym.js/dist/pym.v1.min',
+            'pymManager': '//static.bbc.co.uk/indepthtoolkit/15.3.0.361/js/vendor/bower/news-vj-iframe-wrapper/js/pym-manager'
+        },
+    });
+
+
+    require(['vjCutsTheMustard', 'pymManager'], function (cutsTheMustard, pymManager) {
+        if (cutsTheMustard) {
+            pymManager.init('5c73931687f94', '//www.bbc.co.uk/indepthtoolkit/charts/usdebt?iframe=true&iframeUID=5c73931687f94', 'pym', '5c73931687f94-core-content');
+        }
+    });
+
+Еще в декабре 2017 года Россия занимала 15 строчку с портфелем в 102,2 млрд долларов. Сейчас Россия распродает бонды, потому что есть риск обесценивания этого актива, говорят эксперты. Кроме того, ЦБ опасается ужесточения санкций со стороны США. 
+"Бумажное" снижение и санкции 
+ЦБ покупал американские облигации в период низких ставок, а сейчас Федеральная резервная система повышает ставки, напоминает профессор финансов РЭШ Олег Шибанов. В результате по формуле стоимости облигации дешевеют, и это может привести к тому, что Банку России придется отображать снижение стоимости международных резервов. 
+"Несмотря на то, что это "бумажное" снижение, не влияющее на реальные доллары в руках Банка России, любые инвесторы не хотят видеть такой переоценки", - говорит эксперт. 
+Ранее председатель ЦБ Эльвира Набиуллина заявляла, что регулятор при формировании резервов просчитывает не только экономические, но и политические риски. В связи с этим еще одной причиной распродажи облигаций может быть ухудшение отношений США, считает Олег Шибанов. 
+
+    @-webkit-keyframes spinnerRotate
+    {
+        from{-webkit-transform:rotate(0deg);}
+        to{-webkit-transform:rotate(360deg);}
+    }
+    @-moz-keyframes spinnerRotate
+    {
+        from{-moz-transform:rotate(0deg);}
+        to{-moz-transform:rotate(360deg);}
+    }
+    @-ms-keyframes spinnerRotate
+    {
+        from{-ms-transform:rotate(0deg);}
+        to{-ms-transform:rotate(360deg);}
+    }
+    .bbc-news-visual-journalism-loading-spinner {
+        display: block;
+        margin: 10px auto;
+        width: 33px;
+        height: 33px;
+        max-width: 33px;
+        
+        -webkit-animation-name: spinnerRotate;
+        -webkit-animation-duration: 5s;
+        -webkit-animation-iteration-count: infinite;
+        -webkit-animation-timing-function: linear;
+        -moz-animation-name: spinnerRotate;
+        -moz-animation-duration: 5s;
+        -moz-animation-iteration-count: infinite;
+        -moz-animation-timing-function: linear;
+        -ms-animation-name: spinnerRotate;
+        -ms-animation-duration: 5s;
+        -ms-animation-iteration-count: infinite;
+        -ms-animation-timing-function: linear;
+
+        background-image: url('data:image/gif;base64,R0lGODlhIQAhALMAAMPDw/Dw8BAQECAgIICAgHBwcKCgoDAwMFBQULCwsGBgYEBAQODg4JCQkAAAAP///yH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4zLWMwMTEgNjYuMTQ1NjYxLCAyMDEyLzAyLzA2LTE0OjU2OjI3ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjFFOTcwNTgzMDlCMjExRTQ4MDU3RThBRkIxMjYyOEYyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjFFOTcwNTg0MDlCMjExRTQ4MDU3RThBRkIxMjYyOEYyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MUU5NzA1ODEwOUIyMTFFNDgwNTdFOEFGQjEyNjI4RjIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MUU5NzA1ODIwOUIyMTFFNDgwNTdFOEFGQjEyNjI4RjIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4B//79/Pv6+fj39vX08/Lx8O/u7ezr6uno5+bl5OPi4eDf3t3c29rZ2NfW1dTT0tHQz87NzMvKycjHxsXEw8LBwL++vby7urm4t7a1tLOysbCvrq2sq6qpqKempaSjoqGgn56dnJuamZiXlpWUk5KRkI+OjYyLiomIh4aFhIOCgYB/fn18e3p5eHd2dXRzcnFwb25tbGtqaWhnZmVkY2JhYF9eXVxbWllYV1ZVVFNSUVBPTk1MS0pJSEdGRURDQkFAPz49PDs6OTg3NjU0MzIxMC8uLSwrKikoJyYlJCMiISAfHh0cGxoZGBcWFRQTEhEQDw4NDAsKCQgHBgUEAwIBAAAh+QQAAAAAACwAAAAAIQAhAAAE0vDJSScguOrNE3IgyI0bMIQoqUoF6q5jcLigsCzwJrtCAeSjDwoRAI4aLoNxxBCglEtJoFGUKFCEqCRxKkidoIP20aoVDaifFvB8XEGDseQEUjzoDq+87IijEnIPCSlpgWwhDIVyhyKKY4wOD3+BgyF3IXpjfHFvfYF4dmghalGQSgFgDmJaM2ZWWFEEKHYSTW1AojUMFEi3K7kgDRpCIUQkAcQgCDqtIT2kFgWpYVUaOzQ2NwvTIQfVHHw04iCZKibjNAPQMB7oDgiAixjzBOsbEQA7');
+    }
+
+
+define('vjCutsTheMustard', function cutsTheMustard() {
+    return (
+        document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#BasicStructure', '1.1') &&
+        'querySelector' in document &&
+        'localStorage' in window &&
+        'addEventListener' in window
+    );
+});
+
+
+require(["jquery-1", "istats-1"], function ($, istats) {
+  $(function () {
+    
+    var monitorScrolling = function (ev) {
+      if (isElementInViewport(document.getElementById('ns_chart_usrussiadebt'))) {
+        istats.log(
+          "idt-content",
+          "chart-entered-view",
+          {
+            "project" : "usrussiadebt",
+            "page"    : window.location.href
+          });
+        window.clearInterval(intervalID);
+      }
+    };
+    
+    var isElementInViewport = function (el) {
+      var rect = el.getBoundingClientRect();
+
+      return (
+        rect.top >= 0 &&
+        rect.left >= 0 &&
+        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+        rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+        );
+    };
+
+    var intervalID = window.setInterval(monitorScrolling, 500);
+    monitorScrolling();
+    
+  });
+});
+
+
+    require.config({
+        paths: {
+            'pym': '//static.bbc.co.uk/indepthtoolkit/15.3.0.361/js/vendor/bower/pym.js/dist/pym.v1.min',
+            'pymManager': '//static.bbc.co.uk/indepthtoolkit/15.3.0.361/js/vendor/bower/news-vj-iframe-wrapper/js/pym-manager'
+        },
+    });
+
+
+    require(['vjCutsTheMustard', 'pymManager'], function (cutsTheMustard, pymManager) {
+        if (cutsTheMustard) {
+            pymManager.init('5c739316e2072', '//www.bbc.co.uk/indepthtoolkit/charts/usrussiadebt?iframe=true&iframeUID=5c739316e2072', 'pym', '5c739316e2072-core-content');
+        }
+    });
+
+"Санкции продолжают расширяться, и если они вдруг затронут госдолг США и госдолг России, Банку России придется действовать оперативно. Вероятно, в данном случае было принято решение играть на опережение", - говорит Шибанов. 
+ЦБ берет золотом
+К распродаже бумаг Россию могла подтолкнуть и торговая война Китая и США, считает аналитик "Уралсиб" Ольга Стерина. Если Китай в отместку США начнет сбрасывать американские гособлигации, бонды подешевеют, и в результате российский портфель обесценится вместе с другими. 
+"Так как Китай является крупнейшим держателем облигаций США, то есть риск, что торговая война может привести к продаже Китаем облигаций. И, возможно, мы себя как-то обезопасили", - говорит Стерина.
+Раньше эксперты отмечали, что угроза распродажи бумаг Китаем действительно есть, хотя такой сценарий маловероятен. 
+Кроме того, ЦБ стремится повысить долю золота в международных резервах, отмечает Стерина. Сейчас эта доля составляет меньше 18%, тогда как у других развитых стран этот показатель гораздо выше. Например, у США доля золота в резервах составляет 75%, у Германии - 70%, у Италии - 68%, у Франции - 63%. 
+
+    @-webkit-keyframes spinnerRotate
+    {
+        from{-webkit-transform:rotate(0deg);}
+        to{-webkit-transform:rotate(360deg);}
+    }
+    @-moz-keyframes spinnerRotate
+    {
+        from{-moz-transform:rotate(0deg);}
+        to{-moz-transform:rotate(360deg);}
+    }
+    @-ms-keyframes spinnerRotate
+    {
+        from{-ms-transform:rotate(0deg);}
+        to{-ms-transform:rotate(360deg);}
+    }
+    .bbc-news-visual-journalism-loading-spinner {
+        display: block;
+        margin: 10px auto;
+        width: 33px;
+        height: 33px;
+        max-width: 33px;
+        
+        -webkit-animation-name: spinnerRotate;
+        -webkit-animation-duration: 5s;
+        -webkit-animation-iteration-count: infinite;
+        -webkit-animation-timing-function: linear;
+        -moz-animation-name: spinnerRotate;
+        -moz-animation-duration: 5s;
+        -moz-animation-iteration-count: infinite;
+        -moz-animation-timing-function: linear;
+        -ms-animation-name: spinnerRotate;
+        -ms-animation-duration: 5s;
+        -ms-animation-iteration-count: infinite;
+        -ms-animation-timing-function: linear;
+
+        background-image: url('data:image/gif;base64,R0lGODlhIQAhALMAAMPDw/Dw8BAQECAgIICAgHBwcKCgoDAwMFBQULCwsGBgYEBAQODg4JCQkAAAAP///yH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4zLWMwMTEgNjYuMTQ1NjYxLCAyMDEyLzAyLzA2LTE0OjU2OjI3ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjFFOTcwNTgzMDlCMjExRTQ4MDU3RThBRkIxMjYyOEYyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjFFOTcwNTg0MDlCMjExRTQ4MDU3RThBRkIxMjYyOEYyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MUU5NzA1ODEwOUIyMTFFNDgwNTdFOEFGQjEyNjI4RjIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MUU5NzA1ODIwOUIyMTFFNDgwNTdFOEFGQjEyNjI4RjIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4B//79/Pv6+fj39vX08/Lx8O/u7ezr6uno5+bl5OPi4eDf3t3c29rZ2NfW1dTT0tHQz87NzMvKycjHxsXEw8LBwL++vby7urm4t7a1tLOysbCvrq2sq6qpqKempaSjoqGgn56dnJuamZiXlpWUk5KRkI+OjYyLiomIh4aFhIOCgYB/fn18e3p5eHd2dXRzcnFwb25tbGtqaWhnZmVkY2JhYF9eXVxbWllYV1ZVVFNSUVBPTk1MS0pJSEdGRURDQkFAPz49PDs6OTg3NjU0MzIxMC8uLSwrKikoJyYlJCMiISAfHh0cGxoZGBcWFRQTEhEQDw4NDAsKCQgHBgUEAwIBAAAh+QQAAAAAACwAAAAAIQAhAAAE0vDJSScguOrNE3IgyI0bMIQoqUoF6q5jcLigsCzwJrtCAeSjDwoRAI4aLoNxxBCglEtJoFGUKFCEqCRxKkidoIP20aoVDaifFvB8XEGDseQEUjzoDq+87IijEnIPCSlpgWwhDIVyhyKKY4wOD3+BgyF3IXpjfHFvfYF4dmghalGQSgFgDmJaM2ZWWFEEKHYSTW1AojUMFEi3K7kgDRpCIUQkAcQgCDqtIT2kFgWpYVUaOzQ2NwvTIQfVHHw04iCZKibjNAPQMB7oDgiAixjzBOsbEQA7');
+    }
+
+
+define('vjCutsTheMustard', function cutsTheMustard() {
+    return (
+        document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#BasicStructure', '1.1') &&
+        'querySelector' in document &&
+        'localStorage' in window &&
+        'addEventListener' in window
+    );
+});
+
+
+require(["jquery-1", "istats-1"], function ($, istats) {
+  $(function () {
+    
+    var monitorScrolling = function (ev) {
+      if (isElementInViewport(document.getElementById('ns_chart_goldshare'))) {
+        istats.log(
+          "idt-content",
+          "chart-entered-view",
+          {
+            "project" : "goldshare",
+            "page"    : window.location.href
+          });
+        window.clearInterval(intervalID);
+      }
+    };
+    
+    var isElementInViewport = function (el) {
+      var rect = el.getBoundingClientRect();
+
+      return (
+        rect.top >= 0 &&
+        rect.left >= 0 &&
+        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+        rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+        );
+    };
+
+    var intervalID = window.setInterval(monitorScrolling, 500);
+    monitorScrolling();
+    
+  });
+});
+
+
+    require.config({
+        paths: {
+            'pym': '//static.bbc.co.uk/indepthtoolkit/15.3.0.361/js/vendor/bower/pym.js/dist/pym.v1.min',
+            'pymManager': '//static.bbc.co.uk/indepthtoolkit/15.3.0.361/js/vendor/bower/news-vj-iframe-wrapper/js/pym-manager'
+        },
+    });
+
+
+    require(['vjCutsTheMustard', 'pymManager'], function (cutsTheMustard, pymManager) {
+        if (cutsTheMustard) {
+            pymManager.init('5c73931732a10', '//www.bbc.co.uk/indepthtoolkit/charts/goldshare?iframe=true&iframeUID=5c73931732a10', 'pym', '5c73931732a10-core-content');
+        }
+    });
+
+Зампред ЦБ Сергей Швецов заявлял в ноябре 2017 года, что Банк России увеличивает долю золота по поручению президента Владимира Путина. 
+"Я не буду останавливаться на геополитической обстановке, все вы люди умные и понимаете роль золота в обеспечении финансовой и экономической безопасности страны", - отмечал Швецов. 
+Хватит кормить США
+В российских ультраконсервативных кругах принято ругать ЦБ за скупку гособлигаций США. Например, координатор организации "Национально-освободительное движение", депутат Евгений Федоров считает инвестирование в американские бонды доказательством отсутствия у России суверенитета. 
+Федоров приветствовал новость о рекордном сокращении портфеля гособлигаций США на балансе ЦБ России. "Это хорошая тенденция к укреплению суверенитета", - заявил он. 
+О решении ЦБ России одобрительно отозвался также экономист Михаил Делягин, назвав его "проявлением разумности". Делягин неоднократно критиковал скупку гособлигаций США, призывая не давать деньги в долг американскому государству, а направлять их на развитие российской экономики. 
+Что касается США, то для них распродажа бумаг Россией не играет большой роли, считает Олег Шибанов: "Вероятно, США не заметят этих изменений. Россия и так была достаточно небольшим инвестором последние месяцы - Китай и Япония в десять раз больше вложили". 
+Действия ЦБ России не повредят такой крупной экономике, как американская, соглашается Ольга Стерина. 

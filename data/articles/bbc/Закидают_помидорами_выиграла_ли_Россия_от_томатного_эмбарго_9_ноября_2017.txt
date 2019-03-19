@@ -1,0 +1,424 @@
+В ноябре на российский рынок возвращаются турецкие помидоры. За два года их отсутствия в России случился томатный бум, но отечественным производителям так и не удалось завоевать свой собственный рынок. Кто же выиграл и кто проиграл за время "томатного" эмбарго? 
+Поставки турецких помидоров в Россию и других продуктов были запрещены с 1 января 2016 года в ответ на сбитый ВВС Турции российский Су-24. Санкции в отношении Турции Россия начала снимать постепенно с мая этого года. Но "помидорный вопрос" удалось решить только в октябре, после встречи президента России Владимира Путина с главой Турции Реджепом Тайипом Эрдоганом. 
+Теперь запрет снят. Торговые сети готовы закупать турецкие томаты, но пока конкретных договоренностей нет, сообщили Би-би-си в X5 Retail Group (сети "Пятерочка", "Перекресток" и "Карусель"), "Дикси" и "Ашан".
+Как Турция выиграла от одного эмбарго, но проиграла от другого
+Турция всегда была крупнейшим поставщиков томатов в Россию. Доля этой страны в структуре импорта помидоров составляла от 40% до 53% в 2010-2015 годы. Турецкие томаты особенно пользовались спросом зимой, когда российские производители тепличных овощей не в состоянии удовлетворить спрос. 
+Летом 2014 года прекратились поставки украинских помидоров, а также овощей из стран Евросоюза. Европейское эмбарго пошло Турции на пользу - доля этой страны в российском импорте выросла с 41,8% до 48,7% (в долларах), подсчитали в Центре международной торговли. Также выросли поставки из других крупных стран-импортеров: Китая, Марокко, Белоруссии, Азербайджана. 
+
+    @-webkit-keyframes spinnerRotate
+    {
+        from{-webkit-transform:rotate(0deg);}
+        to{-webkit-transform:rotate(360deg);}
+    }
+    @-moz-keyframes spinnerRotate
+    {
+        from{-moz-transform:rotate(0deg);}
+        to{-moz-transform:rotate(360deg);}
+    }
+    @-ms-keyframes spinnerRotate
+    {
+        from{-ms-transform:rotate(0deg);}
+        to{-ms-transform:rotate(360deg);}
+    }
+    .bbc-news-visual-journalism-loading-spinner {
+        display: block;
+        margin: 10px auto;
+        width: 33px;
+        height: 33px;
+        max-width: 33px;
+        
+        -webkit-animation-name: spinnerRotate;
+        -webkit-animation-duration: 5s;
+        -webkit-animation-iteration-count: infinite;
+        -webkit-animation-timing-function: linear;
+        -moz-animation-name: spinnerRotate;
+        -moz-animation-duration: 5s;
+        -moz-animation-iteration-count: infinite;
+        -moz-animation-timing-function: linear;
+        -ms-animation-name: spinnerRotate;
+        -ms-animation-duration: 5s;
+        -ms-animation-iteration-count: infinite;
+        -ms-animation-timing-function: linear;
+
+        background-image: url('data:image/gif;base64,R0lGODlhIQAhALMAAMPDw/Dw8BAQECAgIICAgHBwcKCgoDAwMFBQULCwsGBgYEBAQODg4JCQkAAAAP///yH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4zLWMwMTEgNjYuMTQ1NjYxLCAyMDEyLzAyLzA2LTE0OjU2OjI3ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjFFOTcwNTgzMDlCMjExRTQ4MDU3RThBRkIxMjYyOEYyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjFFOTcwNTg0MDlCMjExRTQ4MDU3RThBRkIxMjYyOEYyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MUU5NzA1ODEwOUIyMTFFNDgwNTdFOEFGQjEyNjI4RjIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MUU5NzA1ODIwOUIyMTFFNDgwNTdFOEFGQjEyNjI4RjIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4B//79/Pv6+fj39vX08/Lx8O/u7ezr6uno5+bl5OPi4eDf3t3c29rZ2NfW1dTT0tHQz87NzMvKycjHxsXEw8LBwL++vby7urm4t7a1tLOysbCvrq2sq6qpqKempaSjoqGgn56dnJuamZiXlpWUk5KRkI+OjYyLiomIh4aFhIOCgYB/fn18e3p5eHd2dXRzcnFwb25tbGtqaWhnZmVkY2JhYF9eXVxbWllYV1ZVVFNSUVBPTk1MS0pJSEdGRURDQkFAPz49PDs6OTg3NjU0MzIxMC8uLSwrKikoJyYlJCMiISAfHh0cGxoZGBcWFRQTEhEQDw4NDAsKCQgHBgUEAwIBAAAh+QQAAAAAACwAAAAAIQAhAAAE0vDJSScguOrNE3IgyI0bMIQoqUoF6q5jcLigsCzwJrtCAeSjDwoRAI4aLoNxxBCglEtJoFGUKFCEqCRxKkidoIP20aoVDaifFvB8XEGDseQEUjzoDq+87IijEnIPCSlpgWwhDIVyhyKKY4wOD3+BgyF3IXpjfHFvfYF4dmghalGQSgFgDmJaM2ZWWFEEKHYSTW1AojUMFEi3K7kgDRpCIUQkAcQgCDqtIT2kFgWpYVUaOzQ2NwvTIQfVHHw04iCZKibjNAPQMB7oDgiAixjzBOsbEQA7');
+    }
+
+
+define('vjCutsTheMustard', function cutsTheMustard() {
+    return (
+        document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#BasicStructure', '1.1') &&
+        'querySelector' in document &&
+        'localStorage' in window &&
+        'addEventListener' in window
+    );
+});
+
+
+require(["jquery-1", "istats-1"], function ($, istats) {
+  $(function () {
+    
+    var monitorScrolling = function (ev) {
+      if (isElementInViewport(document.getElementById('ns_chart_tomato1'))) {
+        istats.log(
+          "idt-content",
+          "chart-entered-view",
+          {
+            "project" : "tomato1",
+            "page"    : window.location.href
+          });
+        window.clearInterval(intervalID);
+      }
+    };
+    
+    var isElementInViewport = function (el) {
+      var rect = el.getBoundingClientRect();
+
+      return (
+        rect.top >= 0 &&
+        rect.left >= 0 &&
+        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+        rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+        );
+    };
+
+    var intervalID = window.setInterval(monitorScrolling, 500);
+    monitorScrolling();
+    
+  });
+});
+
+
+    require.config({
+        paths: {
+            'pym': '//static.bbc.co.uk/indepthtoolkit/15.3.0.361/js/vendor/bower/pym.js/dist/pym.v1.min',
+            'pymManager': '//static.bbc.co.uk/indepthtoolkit/15.3.0.361/js/vendor/bower/news-vj-iframe-wrapper/js/pym-manager'
+        },
+    });
+
+
+    require(['vjCutsTheMustard', 'pymManager'], function (cutsTheMustard, pymManager) {
+        if (cutsTheMustard) {
+            pymManager.init('5c7394ef385fa', '//www.bbc.co.uk/indepthtoolkit/charts/tomato1?iframe=true&iframeUID=5c7394ef385fa', 'pym', '5c7394ef385fa-core-content');
+        }
+    });
+
+Но уже через год турецкие экспортеры помидоров также попали под запрет. После ввода эмбарго доля турецкого импорта на российском рынке снизилась до нуля. 
+Одновременно выросли объемы поставок других крупных импортеров. В результате за два года отсутствия на российском рынке турецкие поставщики потеряли около 2 млрд долларов - по крайней мере, такую оценку в разговоре с РИА Новости приводил аналитик Национального плодоовощного союза Кирилл Лашин.
+
+    @-webkit-keyframes spinnerRotate
+    {
+        from{-webkit-transform:rotate(0deg);}
+        to{-webkit-transform:rotate(360deg);}
+    }
+    @-moz-keyframes spinnerRotate
+    {
+        from{-moz-transform:rotate(0deg);}
+        to{-moz-transform:rotate(360deg);}
+    }
+    @-ms-keyframes spinnerRotate
+    {
+        from{-ms-transform:rotate(0deg);}
+        to{-ms-transform:rotate(360deg);}
+    }
+    .bbc-news-visual-journalism-loading-spinner {
+        display: block;
+        margin: 10px auto;
+        width: 33px;
+        height: 33px;
+        max-width: 33px;
+        
+        -webkit-animation-name: spinnerRotate;
+        -webkit-animation-duration: 5s;
+        -webkit-animation-iteration-count: infinite;
+        -webkit-animation-timing-function: linear;
+        -moz-animation-name: spinnerRotate;
+        -moz-animation-duration: 5s;
+        -moz-animation-iteration-count: infinite;
+        -moz-animation-timing-function: linear;
+        -ms-animation-name: spinnerRotate;
+        -ms-animation-duration: 5s;
+        -ms-animation-iteration-count: infinite;
+        -ms-animation-timing-function: linear;
+
+        background-image: url('data:image/gif;base64,R0lGODlhIQAhALMAAMPDw/Dw8BAQECAgIICAgHBwcKCgoDAwMFBQULCwsGBgYEBAQODg4JCQkAAAAP///yH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4zLWMwMTEgNjYuMTQ1NjYxLCAyMDEyLzAyLzA2LTE0OjU2OjI3ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjFFOTcwNTgzMDlCMjExRTQ4MDU3RThBRkIxMjYyOEYyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjFFOTcwNTg0MDlCMjExRTQ4MDU3RThBRkIxMjYyOEYyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MUU5NzA1ODEwOUIyMTFFNDgwNTdFOEFGQjEyNjI4RjIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MUU5NzA1ODIwOUIyMTFFNDgwNTdFOEFGQjEyNjI4RjIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4B//79/Pv6+fj39vX08/Lx8O/u7ezr6uno5+bl5OPi4eDf3t3c29rZ2NfW1dTT0tHQz87NzMvKycjHxsXEw8LBwL++vby7urm4t7a1tLOysbCvrq2sq6qpqKempaSjoqGgn56dnJuamZiXlpWUk5KRkI+OjYyLiomIh4aFhIOCgYB/fn18e3p5eHd2dXRzcnFwb25tbGtqaWhnZmVkY2JhYF9eXVxbWllYV1ZVVFNSUVBPTk1MS0pJSEdGRURDQkFAPz49PDs6OTg3NjU0MzIxMC8uLSwrKikoJyYlJCMiISAfHh0cGxoZGBcWFRQTEhEQDw4NDAsKCQgHBgUEAwIBAAAh+QQAAAAAACwAAAAAIQAhAAAE0vDJSScguOrNE3IgyI0bMIQoqUoF6q5jcLigsCzwJrtCAeSjDwoRAI4aLoNxxBCglEtJoFGUKFCEqCRxKkidoIP20aoVDaifFvB8XEGDseQEUjzoDq+87IijEnIPCSlpgWwhDIVyhyKKY4wOD3+BgyF3IXpjfHFvfYF4dmghalGQSgFgDmJaM2ZWWFEEKHYSTW1AojUMFEi3K7kgDRpCIUQkAcQgCDqtIT2kFgWpYVUaOzQ2NwvTIQfVHHw04iCZKibjNAPQMB7oDgiAixjzBOsbEQA7');
+    }
+
+
+define('vjCutsTheMustard', function cutsTheMustard() {
+    return (
+        document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#BasicStructure', '1.1') &&
+        'querySelector' in document &&
+        'localStorage' in window &&
+        'addEventListener' in window
+    );
+});
+
+
+require(["jquery-1", "istats-1"], function ($, istats) {
+  $(function () {
+    
+    var monitorScrolling = function (ev) {
+      if (isElementInViewport(document.getElementById('ns_chart_tomato2'))) {
+        istats.log(
+          "idt-content",
+          "chart-entered-view",
+          {
+            "project" : "tomato2",
+            "page"    : window.location.href
+          });
+        window.clearInterval(intervalID);
+      }
+    };
+    
+    var isElementInViewport = function (el) {
+      var rect = el.getBoundingClientRect();
+
+      return (
+        rect.top >= 0 &&
+        rect.left >= 0 &&
+        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+        rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+        );
+    };
+
+    var intervalID = window.setInterval(monitorScrolling, 500);
+    monitorScrolling();
+    
+  });
+});
+
+
+    require.config({
+        paths: {
+            'pym': '//static.bbc.co.uk/indepthtoolkit/15.3.0.361/js/vendor/bower/pym.js/dist/pym.v1.min',
+            'pymManager': '//static.bbc.co.uk/indepthtoolkit/15.3.0.361/js/vendor/bower/news-vj-iframe-wrapper/js/pym-manager'
+        },
+    });
+
+
+    require(['vjCutsTheMustard', 'pymManager'], function (cutsTheMustard, pymManager) {
+        if (cutsTheMustard) {
+            pymManager.init('5c7394ef85455', '//www.bbc.co.uk/indepthtoolkit/charts/tomato2?iframe=true&iframeUID=5c7394ef85455', 'pym', '5c7394ef85455-core-content');
+        }
+    });
+
+Но другие импортеры не смогли полностью заменить турецкие помидоры. Их продукция дороже, и ее все равно не хватает, говорит гендиректор исследовательской компании "Технологии роста" Тамара Решетникова.  
+"Российский потребитель не готов покупать в том же объеме азербайджанские томаты по цене в 2-2,5 раза выше, пусть и несколько лучшего качества [по сравнению с турецкими]", - отмечает она. 
+Действительно ли эти два года в России не было турецких помидоров? 
+За время действия эмбарго российские власти неоднократно заявляли о том, что в Россию все же поставляют турецкие помидоры. Среди стран, через которые они поставлялись, чиновники называли, к примеру, Армению и Азербайджан. Но чаще всего обвинения в реэкспорте звучали в адрес Белоруссии. Власти этих стран неоднократно отвергали такие обвинения. 
+Плодоовощной союз оценивает примерные объемы нелегальных поставок в 100 тысяч тонн в год. Много это или мало? Такие поставки сравнимы с примерно половиной производства тепличных томатов в России в 2017 году. 
+Российской федеральной таможенной службе (ФТС) даже пришлось создать межведомственные рабочие группы с коллегами из Армении и Азербайджана. От России в них вошли сотрудники ФТС, Роспотребнадзора и Россельхознадзора. 
+Специалисты планировали выезжать на предприятия Азербайджана и Армении, занимающиеся экспортом томатов в Россию, и оценивать производственные мощности и сельскохозяйственные площади предприятий, чтобы рассчитать объемы поставок. О такой работе в октябре рассказывал РИА Новости первый замруководителя ФТС Руслан Давыдов.
+
+    @-webkit-keyframes spinnerRotate
+    {
+        from{-webkit-transform:rotate(0deg);}
+        to{-webkit-transform:rotate(360deg);}
+    }
+    @-moz-keyframes spinnerRotate
+    {
+        from{-moz-transform:rotate(0deg);}
+        to{-moz-transform:rotate(360deg);}
+    }
+    @-ms-keyframes spinnerRotate
+    {
+        from{-ms-transform:rotate(0deg);}
+        to{-ms-transform:rotate(360deg);}
+    }
+    .bbc-news-visual-journalism-loading-spinner {
+        display: block;
+        margin: 10px auto;
+        width: 33px;
+        height: 33px;
+        max-width: 33px;
+        
+        -webkit-animation-name: spinnerRotate;
+        -webkit-animation-duration: 5s;
+        -webkit-animation-iteration-count: infinite;
+        -webkit-animation-timing-function: linear;
+        -moz-animation-name: spinnerRotate;
+        -moz-animation-duration: 5s;
+        -moz-animation-iteration-count: infinite;
+        -moz-animation-timing-function: linear;
+        -ms-animation-name: spinnerRotate;
+        -ms-animation-duration: 5s;
+        -ms-animation-iteration-count: infinite;
+        -ms-animation-timing-function: linear;
+
+        background-image: url('data:image/gif;base64,R0lGODlhIQAhALMAAMPDw/Dw8BAQECAgIICAgHBwcKCgoDAwMFBQULCwsGBgYEBAQODg4JCQkAAAAP///yH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4zLWMwMTEgNjYuMTQ1NjYxLCAyMDEyLzAyLzA2LTE0OjU2OjI3ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjFFOTcwNTgzMDlCMjExRTQ4MDU3RThBRkIxMjYyOEYyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjFFOTcwNTg0MDlCMjExRTQ4MDU3RThBRkIxMjYyOEYyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MUU5NzA1ODEwOUIyMTFFNDgwNTdFOEFGQjEyNjI4RjIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MUU5NzA1ODIwOUIyMTFFNDgwNTdFOEFGQjEyNjI4RjIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4B//79/Pv6+fj39vX08/Lx8O/u7ezr6uno5+bl5OPi4eDf3t3c29rZ2NfW1dTT0tHQz87NzMvKycjHxsXEw8LBwL++vby7urm4t7a1tLOysbCvrq2sq6qpqKempaSjoqGgn56dnJuamZiXlpWUk5KRkI+OjYyLiomIh4aFhIOCgYB/fn18e3p5eHd2dXRzcnFwb25tbGtqaWhnZmVkY2JhYF9eXVxbWllYV1ZVVFNSUVBPTk1MS0pJSEdGRURDQkFAPz49PDs6OTg3NjU0MzIxMC8uLSwrKikoJyYlJCMiISAfHh0cGxoZGBcWFRQTEhEQDw4NDAsKCQgHBgUEAwIBAAAh+QQAAAAAACwAAAAAIQAhAAAE0vDJSScguOrNE3IgyI0bMIQoqUoF6q5jcLigsCzwJrtCAeSjDwoRAI4aLoNxxBCglEtJoFGUKFCEqCRxKkidoIP20aoVDaifFvB8XEGDseQEUjzoDq+87IijEnIPCSlpgWwhDIVyhyKKY4wOD3+BgyF3IXpjfHFvfYF4dmghalGQSgFgDmJaM2ZWWFEEKHYSTW1AojUMFEi3K7kgDRpCIUQkAcQgCDqtIT2kFgWpYVUaOzQ2NwvTIQfVHHw04iCZKibjNAPQMB7oDgiAixjzBOsbEQA7');
+    }
+
+
+define('vjCutsTheMustard', function cutsTheMustard() {
+    return (
+        document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#BasicStructure', '1.1') &&
+        'querySelector' in document &&
+        'localStorage' in window &&
+        'addEventListener' in window
+    );
+});
+
+
+require(["jquery-1", "istats-1"], function ($, istats) {
+  $(function () {
+    
+    var monitorScrolling = function (ev) {
+      if (isElementInViewport(document.getElementById('ns_chart_tomato4'))) {
+        istats.log(
+          "idt-content",
+          "chart-entered-view",
+          {
+            "project" : "tomato4",
+            "page"    : window.location.href
+          });
+        window.clearInterval(intervalID);
+      }
+    };
+    
+    var isElementInViewport = function (el) {
+      var rect = el.getBoundingClientRect();
+
+      return (
+        rect.top >= 0 &&
+        rect.left >= 0 &&
+        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+        rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+        );
+    };
+
+    var intervalID = window.setInterval(monitorScrolling, 500);
+    monitorScrolling();
+    
+  });
+});
+
+
+    require.config({
+        paths: {
+            'pym': '//static.bbc.co.uk/indepthtoolkit/15.3.0.361/js/vendor/bower/pym.js/dist/pym.v1.min',
+            'pymManager': '//static.bbc.co.uk/indepthtoolkit/15.3.0.361/js/vendor/bower/news-vj-iframe-wrapper/js/pym-manager'
+        },
+    });
+
+
+    require(['vjCutsTheMustard', 'pymManager'], function (cutsTheMustard, pymManager) {
+        if (cutsTheMustard) {
+            pymManager.init('5c7394efd7c10', '//www.bbc.co.uk/indepthtoolkit/charts/tomato4?iframe=true&iframeUID=5c7394efd7c10', 'pym', '5c7394efd7c10-core-content');
+        }
+    });
+
+Российский томатный бум
+После введения эмбарго на турецкие помидоры в России были запущены крупные стройки тепличных комплексов. 
+"Производители тепличных овощей, ранее занимавшиеся по большей части выращиванием огурцов, стали переходить на производство томатов в целях импортозамещения", - говорит эксперт "Института конъюнктуры аграрного рынка" (ИКАР) Наталья Пенькова. 
+По оценке ИКАР, в 2013 году российские компании ввели в эксплуатацию около 70 га новых теплиц, в 2015 году - 154 га, в 2016 году - 170 га.  
+В ближайшие пять лет в России должно появится около 2 тысяч га новых теплиц, говорил в апреле прошлого года глава российского минсельхоза Александр Ткачев. Объем инвестиций в такие площади он оценивал в 200 млрд рублей, сообщал "Интерфакс". 
+В результате производство тепличных томатов в России за время эмбарго выросло в два раза. 
+Чтобы уже запущенные проекты начали окупаться, необходимо три-четыре года, сказал исполнительный директор ассоциации "Руспродсоюз" Дмитрий Востриков. 
+Полностью отменять запрет на поставки турецких томатов нельзя, потому что отечественным компаниям нужно время для выхода на окупаемость, говорит он. 
+"Если турецкие томаты в полном объеме вернутся, то цены на отечественную продукцию упадут, и российские производители окажутся в трудном положении, - говорит Кирилл Лашин из Плодоовощного союза. - Компаниям будет сложнее закрывать кредиты, которые они взяли на строительство новых тепличных комплексов". 
+В случае полной отмены эмбарго цены на томаты окажутся намного ниже уровня, заложенного в инвестиционных планах компаний, соглашается Наталья Пенькова из ИКАР.    
+
+    @-webkit-keyframes spinnerRotate
+    {
+        from{-webkit-transform:rotate(0deg);}
+        to{-webkit-transform:rotate(360deg);}
+    }
+    @-moz-keyframes spinnerRotate
+    {
+        from{-moz-transform:rotate(0deg);}
+        to{-moz-transform:rotate(360deg);}
+    }
+    @-ms-keyframes spinnerRotate
+    {
+        from{-ms-transform:rotate(0deg);}
+        to{-ms-transform:rotate(360deg);}
+    }
+    .bbc-news-visual-journalism-loading-spinner {
+        display: block;
+        margin: 10px auto;
+        width: 33px;
+        height: 33px;
+        max-width: 33px;
+        
+        -webkit-animation-name: spinnerRotate;
+        -webkit-animation-duration: 5s;
+        -webkit-animation-iteration-count: infinite;
+        -webkit-animation-timing-function: linear;
+        -moz-animation-name: spinnerRotate;
+        -moz-animation-duration: 5s;
+        -moz-animation-iteration-count: infinite;
+        -moz-animation-timing-function: linear;
+        -ms-animation-name: spinnerRotate;
+        -ms-animation-duration: 5s;
+        -ms-animation-iteration-count: infinite;
+        -ms-animation-timing-function: linear;
+
+        background-image: url('data:image/gif;base64,R0lGODlhIQAhALMAAMPDw/Dw8BAQECAgIICAgHBwcKCgoDAwMFBQULCwsGBgYEBAQODg4JCQkAAAAP///yH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4zLWMwMTEgNjYuMTQ1NjYxLCAyMDEyLzAyLzA2LTE0OjU2OjI3ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjFFOTcwNTgzMDlCMjExRTQ4MDU3RThBRkIxMjYyOEYyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjFFOTcwNTg0MDlCMjExRTQ4MDU3RThBRkIxMjYyOEYyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MUU5NzA1ODEwOUIyMTFFNDgwNTdFOEFGQjEyNjI4RjIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MUU5NzA1ODIwOUIyMTFFNDgwNTdFOEFGQjEyNjI4RjIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4B//79/Pv6+fj39vX08/Lx8O/u7ezr6uno5+bl5OPi4eDf3t3c29rZ2NfW1dTT0tHQz87NzMvKycjHxsXEw8LBwL++vby7urm4t7a1tLOysbCvrq2sq6qpqKempaSjoqGgn56dnJuamZiXlpWUk5KRkI+OjYyLiomIh4aFhIOCgYB/fn18e3p5eHd2dXRzcnFwb25tbGtqaWhnZmVkY2JhYF9eXVxbWllYV1ZVVFNSUVBPTk1MS0pJSEdGRURDQkFAPz49PDs6OTg3NjU0MzIxMC8uLSwrKikoJyYlJCMiISAfHh0cGxoZGBcWFRQTEhEQDw4NDAsKCQgHBgUEAwIBAAAh+QQAAAAAACwAAAAAIQAhAAAE0vDJSScguOrNE3IgyI0bMIQoqUoF6q5jcLigsCzwJrtCAeSjDwoRAI4aLoNxxBCglEtJoFGUKFCEqCRxKkidoIP20aoVDaifFvB8XEGDseQEUjzoDq+87IijEnIPCSlpgWwhDIVyhyKKY4wOD3+BgyF3IXpjfHFvfYF4dmghalGQSgFgDmJaM2ZWWFEEKHYSTW1AojUMFEi3K7kgDRpCIUQkAcQgCDqtIT2kFgWpYVUaOzQ2NwvTIQfVHHw04iCZKibjNAPQMB7oDgiAixjzBOsbEQA7');
+    }
+
+
+define('vjCutsTheMustard', function cutsTheMustard() {
+    return (
+        document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#BasicStructure', '1.1') &&
+        'querySelector' in document &&
+        'localStorage' in window &&
+        'addEventListener' in window
+    );
+});
+
+
+require(["jquery-1", "istats-1"], function ($, istats) {
+  $(function () {
+    
+    var monitorScrolling = function (ev) {
+      if (isElementInViewport(document.getElementById('ns_chart_tomato3'))) {
+        istats.log(
+          "idt-content",
+          "chart-entered-view",
+          {
+            "project" : "tomato3",
+            "page"    : window.location.href
+          });
+        window.clearInterval(intervalID);
+      }
+    };
+    
+    var isElementInViewport = function (el) {
+      var rect = el.getBoundingClientRect();
+
+      return (
+        rect.top >= 0 &&
+        rect.left >= 0 &&
+        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+        rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+        );
+    };
+
+    var intervalID = window.setInterval(monitorScrolling, 500);
+    monitorScrolling();
+    
+  });
+});
+
+
+    require.config({
+        paths: {
+            'pym': '//static.bbc.co.uk/indepthtoolkit/15.3.0.361/js/vendor/bower/pym.js/dist/pym.v1.min',
+            'pymManager': '//static.bbc.co.uk/indepthtoolkit/15.3.0.361/js/vendor/bower/news-vj-iframe-wrapper/js/pym-manager'
+        },
+    });
+
+
+    require(['vjCutsTheMustard', 'pymManager'], function (cutsTheMustard, pymManager) {
+        if (cutsTheMustard) {
+            pymManager.init('5c7394f031083', '//www.bbc.co.uk/indepthtoolkit/charts/tomato3?iframe=true&iframeUID=5c7394f031083', 'pym', '5c7394f031083-core-content');
+        }
+    });
+
+Как Россия завоевывает собственный рынок
+Пока доля отечественных тепличных томатов на прилавках магазинов составляет 40%, с 2013 года она выросла с 20% , сказал Востриков.  
+Но ситуация выглядит не так радужно, если оценивать объемы поставок в натуральном выражении, отмечает Тамара Решетникова. Полностью заменить дешевые турецкие помидоры у бизнеса и импортеров не получилось. 
+Потребление свежих томатов в межсезонье снизилось. "Таким образом, резкий рост доли отечественных томатов произошел в основном благодаря сокращению импортных потоков", - говорит Решетникова.    
+Чтобы российские производители могли действительно занять доминирующую роль на отечественном рынке, необходимо строить теплицы со светокультурой (электродосвечиванием). В таких теплицах устанавливаются специальные лампы. Благодаря искусственному свету процесс созревания длится круглыми сутками. 
+Таких теплиц в России пока недостаточно. При этом только они способны обеспечить производство круглый год и стать альтернативой импорту, говорит Тамара Решетникова. 
+Даже если получится построить достаточно теплиц, цены на российские томаты все равно будут выше, чем на турецкие. Это объясняется высокой стоимостью электроэнергии, которая составляет половину затрат производителя в зимний период, отмечает Кирилл Лашин. По данным ИКАР, электричество может составлять более 70% себестоимости в январе.

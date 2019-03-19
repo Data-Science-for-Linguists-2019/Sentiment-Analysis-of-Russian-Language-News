@@ -1,0 +1,214 @@
+Крупнейший американский банк Bank of America Merrill Lynch за несколько недель до ожидаемого ужесточения американских санкций назвал Россию самым надежным и привлекательным развивающимся рынком для инвесторов. Россия обогнала даже Китай. Почему так произошло?
+Банк опубликовал отчет о состоянии развивающихся стран и составил рейтинг 10 самых привлекательных государств на основе анализа макроэкономических данных, в том числе динамики ВВП, дефицита бюджета, госдолга.
+Россия стала лидером десятки, сместив с первого места Китай. Но произошло это в основном благодаря статистике. Экономика Китая явно растет быстрее, следует из отчета.
+У России ниже государственный и частный долг (компаний и домохозяйств), и выше профицит счета текущих операций - он отражает баланс внешней торговли и финансовых потоков в страну. В России также ниже дефицит бюджета, чем у Китая: по оценке BofA, он составляет 1,8% ВВП у России против 3% у Китая.
+
+    @-webkit-keyframes spinnerRotate
+    {
+        from{-webkit-transform:rotate(0deg);}
+        to{-webkit-transform:rotate(360deg);}
+    }
+    @-moz-keyframes spinnerRotate
+    {
+        from{-moz-transform:rotate(0deg);}
+        to{-moz-transform:rotate(360deg);}
+    }
+    @-ms-keyframes spinnerRotate
+    {
+        from{-ms-transform:rotate(0deg);}
+        to{-ms-transform:rotate(360deg);}
+    }
+    .bbc-news-visual-journalism-loading-spinner {
+        display: block;
+        margin: 10px auto;
+        width: 33px;
+        height: 33px;
+        max-width: 33px;
+        
+        -webkit-animation-name: spinnerRotate;
+        -webkit-animation-duration: 5s;
+        -webkit-animation-iteration-count: infinite;
+        -webkit-animation-timing-function: linear;
+        -moz-animation-name: spinnerRotate;
+        -moz-animation-duration: 5s;
+        -moz-animation-iteration-count: infinite;
+        -moz-animation-timing-function: linear;
+        -ms-animation-name: spinnerRotate;
+        -ms-animation-duration: 5s;
+        -ms-animation-iteration-count: infinite;
+        -ms-animation-timing-function: linear;
+
+        background-image: url('data:image/gif;base64,R0lGODlhIQAhALMAAMPDw/Dw8BAQECAgIICAgHBwcKCgoDAwMFBQULCwsGBgYEBAQODg4JCQkAAAAP///yH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4zLWMwMTEgNjYuMTQ1NjYxLCAyMDEyLzAyLzA2LTE0OjU2OjI3ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjFFOTcwNTgzMDlCMjExRTQ4MDU3RThBRkIxMjYyOEYyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjFFOTcwNTg0MDlCMjExRTQ4MDU3RThBRkIxMjYyOEYyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MUU5NzA1ODEwOUIyMTFFNDgwNTdFOEFGQjEyNjI4RjIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MUU5NzA1ODIwOUIyMTFFNDgwNTdFOEFGQjEyNjI4RjIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4B//79/Pv6+fj39vX08/Lx8O/u7ezr6uno5+bl5OPi4eDf3t3c29rZ2NfW1dTT0tHQz87NzMvKycjHxsXEw8LBwL++vby7urm4t7a1tLOysbCvrq2sq6qpqKempaSjoqGgn56dnJuamZiXlpWUk5KRkI+OjYyLiomIh4aFhIOCgYB/fn18e3p5eHd2dXRzcnFwb25tbGtqaWhnZmVkY2JhYF9eXVxbWllYV1ZVVFNSUVBPTk1MS0pJSEdGRURDQkFAPz49PDs6OTg3NjU0MzIxMC8uLSwrKikoJyYlJCMiISAfHh0cGxoZGBcWFRQTEhEQDw4NDAsKCQgHBgUEAwIBAAAh+QQAAAAAACwAAAAAIQAhAAAE0vDJSScguOrNE3IgyI0bMIQoqUoF6q5jcLigsCzwJrtCAeSjDwoRAI4aLoNxxBCglEtJoFGUKFCEqCRxKkidoIP20aoVDaifFvB8XEGDseQEUjzoDq+87IijEnIPCSlpgWwhDIVyhyKKY4wOD3+BgyF3IXpjfHFvfYF4dmghalGQSgFgDmJaM2ZWWFEEKHYSTW1AojUMFEi3K7kgDRpCIUQkAcQgCDqtIT2kFgWpYVUaOzQ2NwvTIQfVHHw04iCZKibjNAPQMB7oDgiAixjzBOsbEQA7');
+    }
+
+
+define('vjCutsTheMustard', function cutsTheMustard() {
+    return (
+        document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#BasicStructure', '1.1') &&
+        'querySelector' in document &&
+        'localStorage' in window &&
+        'addEventListener' in window
+    );
+});
+
+
+require(["jquery-1", "istats-1"], function ($, istats) {
+  $(function () {
+    
+    var monitorScrolling = function (ev) {
+      if (isElementInViewport(document.getElementById('ns_chart_gem_10_gbp_growth'))) {
+        istats.log(
+          "idt-content",
+          "chart-entered-view",
+          {
+            "project" : "gem_10_gbp_growth",
+            "page"    : window.location.href
+          });
+        window.clearInterval(intervalID);
+      }
+    };
+    
+    var isElementInViewport = function (el) {
+      var rect = el.getBoundingClientRect();
+
+      return (
+        rect.top >= 0 &&
+        rect.left >= 0 &&
+        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+        rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+        );
+    };
+
+    var intervalID = window.setInterval(monitorScrolling, 500);
+    monitorScrolling();
+    
+  });
+});
+
+
+    require.config({
+        paths: {
+            'pym': '//static.bbc.co.uk/indepthtoolkit/15.3.0.361/js/vendor/bower/pym.js/dist/pym.v1.min',
+            'pymManager': '//static.bbc.co.uk/indepthtoolkit/15.3.0.361/js/vendor/bower/news-vj-iframe-wrapper/js/pym-manager'
+        },
+    });
+
+
+    require(['vjCutsTheMustard', 'pymManager'], function (cutsTheMustard, pymManager) {
+        if (cutsTheMustard) {
+            pymManager.init('5c739449910cd', '//www.bbc.co.uk/indepthtoolkit/charts/gem_10_gbp_growth?iframe=true&iframeUID=5c739449910cd', 'pym', '5c739449910cd-core-content');
+        }
+    });
+
+Помимо России и Китая в десятку развивающихся стран вошли Южная Корея, Индонезия, Индия, Мексика, Польша, Бразилия, Турция и ЮАР. Последние три страны в докладе называют "хрупкой тройкой": у них высокие долговая нагрузка, дефицит бюджета и торговли. Более того, эти страны оказались в стагфляции - ситуации, когда цены быстро растут при общем спаде экономики.
+
+    @-webkit-keyframes spinnerRotate
+    {
+        from{-webkit-transform:rotate(0deg);}
+        to{-webkit-transform:rotate(360deg);}
+    }
+    @-moz-keyframes spinnerRotate
+    {
+        from{-moz-transform:rotate(0deg);}
+        to{-moz-transform:rotate(360deg);}
+    }
+    @-ms-keyframes spinnerRotate
+    {
+        from{-ms-transform:rotate(0deg);}
+        to{-ms-transform:rotate(360deg);}
+    }
+    .bbc-news-visual-journalism-loading-spinner {
+        display: block;
+        margin: 10px auto;
+        width: 33px;
+        height: 33px;
+        max-width: 33px;
+        
+        -webkit-animation-name: spinnerRotate;
+        -webkit-animation-duration: 5s;
+        -webkit-animation-iteration-count: infinite;
+        -webkit-animation-timing-function: linear;
+        -moz-animation-name: spinnerRotate;
+        -moz-animation-duration: 5s;
+        -moz-animation-iteration-count: infinite;
+        -moz-animation-timing-function: linear;
+        -ms-animation-name: spinnerRotate;
+        -ms-animation-duration: 5s;
+        -ms-animation-iteration-count: infinite;
+        -ms-animation-timing-function: linear;
+
+        background-image: url('data:image/gif;base64,R0lGODlhIQAhALMAAMPDw/Dw8BAQECAgIICAgHBwcKCgoDAwMFBQULCwsGBgYEBAQODg4JCQkAAAAP///yH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4zLWMwMTEgNjYuMTQ1NjYxLCAyMDEyLzAyLzA2LTE0OjU2OjI3ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjFFOTcwNTgzMDlCMjExRTQ4MDU3RThBRkIxMjYyOEYyIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjFFOTcwNTg0MDlCMjExRTQ4MDU3RThBRkIxMjYyOEYyIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MUU5NzA1ODEwOUIyMTFFNDgwNTdFOEFGQjEyNjI4RjIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MUU5NzA1ODIwOUIyMTFFNDgwNTdFOEFGQjEyNjI4RjIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4B//79/Pv6+fj39vX08/Lx8O/u7ezr6uno5+bl5OPi4eDf3t3c29rZ2NfW1dTT0tHQz87NzMvKycjHxsXEw8LBwL++vby7urm4t7a1tLOysbCvrq2sq6qpqKempaSjoqGgn56dnJuamZiXlpWUk5KRkI+OjYyLiomIh4aFhIOCgYB/fn18e3p5eHd2dXRzcnFwb25tbGtqaWhnZmVkY2JhYF9eXVxbWllYV1ZVVFNSUVBPTk1MS0pJSEdGRURDQkFAPz49PDs6OTg3NjU0MzIxMC8uLSwrKikoJyYlJCMiISAfHh0cGxoZGBcWFRQTEhEQDw4NDAsKCQgHBgUEAwIBAAAh+QQAAAAAACwAAAAAIQAhAAAE0vDJSScguOrNE3IgyI0bMIQoqUoF6q5jcLigsCzwJrtCAeSjDwoRAI4aLoNxxBCglEtJoFGUKFCEqCRxKkidoIP20aoVDaifFvB8XEGDseQEUjzoDq+87IijEnIPCSlpgWwhDIVyhyKKY4wOD3+BgyF3IXpjfHFvfYF4dmghalGQSgFgDmJaM2ZWWFEEKHYSTW1AojUMFEi3K7kgDRpCIUQkAcQgCDqtIT2kFgWpYVUaOzQ2NwvTIQfVHHw04iCZKibjNAPQMB7oDgiAixjzBOsbEQA7');
+    }
+
+
+define('vjCutsTheMustard', function cutsTheMustard() {
+    return (
+        document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#BasicStructure', '1.1') &&
+        'querySelector' in document &&
+        'localStorage' in window &&
+        'addEventListener' in window
+    );
+});
+
+
+require(["jquery-1", "istats-1"], function ($, istats) {
+  $(function () {
+    
+    var monitorScrolling = function (ev) {
+      if (isElementInViewport(document.getElementById('ns_chart_gem_10_debt'))) {
+        istats.log(
+          "idt-content",
+          "chart-entered-view",
+          {
+            "project" : "gem_10_debt",
+            "page"    : window.location.href
+          });
+        window.clearInterval(intervalID);
+      }
+    };
+    
+    var isElementInViewport = function (el) {
+      var rect = el.getBoundingClientRect();
+
+      return (
+        rect.top >= 0 &&
+        rect.left >= 0 &&
+        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+        rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+        );
+    };
+
+    var intervalID = window.setInterval(monitorScrolling, 500);
+    monitorScrolling();
+    
+  });
+});
+
+
+    require.config({
+        paths: {
+            'pym': '//static.bbc.co.uk/indepthtoolkit/15.3.0.361/js/vendor/bower/pym.js/dist/pym.v1.min',
+            'pymManager': '//static.bbc.co.uk/indepthtoolkit/15.3.0.361/js/vendor/bower/news-vj-iframe-wrapper/js/pym-manager'
+        },
+    });
+
+
+    require(['vjCutsTheMustard', 'pymManager'], function (cutsTheMustard, pymManager) {
+        if (cutsTheMustard) {
+            pymManager.init('5c739449f178a', '//www.bbc.co.uk/indepthtoolkit/charts/gem_10_debt?iframe=true&iframeUID=5c739449f178a', 'pym', '5c739449f178a-core-content');
+        }
+    });
+
+Доклад Bank of America Merrill Lynch опубликован за месяц до возможного ужесточения санкций со стороны США, которые, в частности, могут ударить по российскому суверенному долгу.  
+Новогоднее ралли
+Боятся ли инвесторы санкций? Если судить по основным показателям, то нет. С начала года российские рынки и рубль показывают устойчивый рост. 
+Индекс Московской биржи с начала года вырос на 5,6%, а индекс РТС - на 6,7%. Рубль заметно укрепился к доллару: если 29 декабря американская валюта торговалась вокруг отметки в 57,6 рубля, то 10 января доллар стоит уже 57 рублей. То есть рубль подорожал почти на процент. 
+Почему так происходит?
+Рост российских рынков происходит на фоне укрепления цен на нефть. Фьючерсы нефти марки Brent с поставкой в марте в среду стоили 69,15 доллара. Цены толкает вверх продление сделки ОПЕК по сокращению мировой добычи нефти и протесты в Иране. За последний месяц цены на нефть выросли почти на 10%.
+В обзорах инвестиционного подразделения Сбербанка Sberbank CIB говорится, что мировые рынки начали 2018 год с "позитивной ноты", а инвесторы довольно оптимистично воспринимают риски и "пускают средства в оборот". Сейчас, по мнению экспертов банка, они готовы рисковать, чтобы заработать. 
+Россия в целом выглядит для инвесторов привлекательно: цены на нефть оказались на новом локальном максимуме, бюджет в этом году может оказаться бездефицитным, а ЦБ проводит политику по снижению процентных ставок, пишут экономисты Сбербанка. Но при этом они советуют быть осторожными из-за рисков, среди которых возможное ужесточение санкций США и президентские выборы в марте этого года.
+Что будет с рублем 
+Рубль находится вблизи максимумов с сентября 2017 года, пишет в своем отчете экономист банка Nordea Татьяна Евдокимова. В Nordea ждут в ближайшее время курса в 56,5-57,5 рублей за доллар. 
+В январе, по ее мнению, большинство факторов в экономике, скорее всего, будет поддерживать рубль. Среди них - интерес иностранных инвесторов к валютам развивающихся стран, высокие цены на нефть и сильный счет текущих операций в первом квартале. Евдокимова отмечает, что рубль может поддержать запрет на покупку российских облигаций федерального займа, а точнее инвесторы, которые решат купить их до введения возможного запрета.
+Ранее эксперты объясняли, что многие спекулянты покупали ОФЗ, чтобы заработать на кэрри-трейде. В рамках этих операций инвестор берет деньги в одной стране под низкий процент, покупает валюту другой страны и вкладывает ее в долговые ценные бумаги под более высокий процент. 
+Однако другие эксперты не столь оптимистичны. Согласно прогнозу ВТБ Капитала, средний курс доллара в первом квартале составит 59,4 рубля. В Sberbank CIB ожидают, что на конец первого квартала доллар укрепится до 59 рублей. Они частично это объясняют тем, что российский минфин увеличит объем покупки валюты.

@@ -1,0 +1,292 @@
+В Белгороде сотрудники Центра по противодействию экстремизму устанавливают скрытые камеры в квартирах последователей религиозной организации "Свидетели Иеговы".
+Адвокат Антон Омельченко, защищающий интересы верующих, сообщил "Дождю", что на данный момент известно о трех таких случаях. По его словам, суды официально выдают разрешение Центру "Э" вести скрытую слежку за людьми, снимая на видео их частную жизнь.
+
+В ходе ознакомления с одним из уголовных дел, заведенных на "Свидетелей Иеговы", адвокат узнал, что таким образом в течение девяти месяцев следили за супружеской парой. "В материалах дела реально записано: вот они смотрят телевизор, как-то негативно высказались в адрес власти - и тут же сотрудники делают пометку "Ругал власть". Стенографируют полностью все. Для меня это шок", - заявил Омельченко, уточнив, что сейчас пара, за которой почти год скрыто наблюдали, покинула Россию.
+
+
+
+/*<![CDATA[*/
+initInfographics(
+{
+groups:[],
+params:[],
+isMobile:true
+});
+
+
+#gr-969svg {
+height: 100%;
+margin-bottom: 20px;
+}
+.gr-969svg {
+display: flex;
+flex-direction: column;
+width: 100%;
+}
+.banner {
+float: left;
+height: 100%;
+}
+.gr-969svg-link-tel {
+order: 2;
+width: 100%;
+margin-left: 0;
+margin-top: 5px;
+text-decoration: none;
+}
+.gr-969svg-link-viber {
+order: 3;
+width: 100%;
+margin-left: 0;
+margin-top: 5px;
+text-decoration: none;
+}
+.gr-969svg-link-app {
+order: 1;
+width: 100%;
+margin-left: 0;
+margin-top: 5px;
+text-decoration: none;
+}
+/* TELEGRAM */
+.gr-969svg-tel {
+width: 100%;
+}
+.gr-969svg-tel-wrapper {
+width: 100%;
+height: 50px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+.gr-969svg-tel-txt {
+font-size: 16px;
+font-weight: bold;
+align-self: center;
+color: #8e9499;
+padding: 10px 15px;
+transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.gr-969svg-tel-img {
+background-color: #f7f7f7;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+overflow: hidden;
+}
+.gr-969svg-tel-wrapper:hover > .gr-969svg-tel-txt {
+transform: scale(1.1);
+color: #61a8de;
+}
+.gr-969svg-tel-img:hover {
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+overflow: hidden;
+}
+#gr-969svg-tel-svg {
+fill:#8e9499;
+transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.gr-969svg-tel-wrapper:hover #gr-969svg-tel-svg {
+transform: scale(1.1);
+fill: #61a8de;
+}
+/* APP */
+.gr-969svg-app {
+width: 100%;
+}
+.gr-969svg-app-wrapper {
+display: block;
+width: 100%;
+height: 50px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+.gr-969svg-app-txt {
+font-size: 16px;
+font-weight: bold;
+align-self: center;
+color: #8e9499;
+padding: 10px 15px;
+transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.gr-969svg-app-img {
+background-color: #f7f7f7;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+overflow: hidden;
+}
+.gr-969svg-app-wrapper:hover > .gr-969svg-app-txt {
+transform: scale(1.1);
+color: #ea6903;
+}
+.gr-969svg-app-img:hover {
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+overflow: hidden;
+}
+.gr-969svg-app-svg-flex {
+margin-right: 10px;
+}
+#gr-969svg-app-svg {
+fill:#8e9499;
+transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.gr-969svg-app-wrapper:hover #gr-969svg-app-svg {
+transform: scale(1.1);
+fill: #ea6903;
+}
+/* VIBER */
+.gr-969svg-viber {
+width: 100%;
+}
+.gr-969svg-viber-wrapper {
+display: block;
+width: 100%;
+height: 50px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+.gr-969svg-viber-txt {
+font-size: 16px;
+font-weight: bold;
+align-self: center;
+color: #8e9499;
+padding: 10px 15px;
+transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.gr-969svg-viber-img {
+background-color: #f7f7f7;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+overflow: hidden;
+}
+.gr-969svg-viber-wrapper:hover > .gr-969svg-viber-txt {
+transform: scale(1.1);
+color: #7d539d;
+}
+.gr-969svg-viber-img:hover {
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+overflow: hidden;
+}
+.gr-969svg-viber-svg-flex {
+margin-right: 10px;
+}
+#gr-969svg-viber-svg {
+fill:#8e9499;
+transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.gr-969svg-viber-wrapper:hover #gr-969svg-viber-svg {
+transform: scale(1.1);
+fill: #7D539D;
+}
+@media (min-width:540px) {
+.gr-969svg {
+display: flex;
+flex-direction: row;
+align-content: stretch;
+width: 100%;
+}
+/* TELEGRAM */
+.gr-969svg-link-tel {
+order: 2;
+width: 100%;
+margin-top: 0;
+margin-left: 10px;
+}
+.gr-969svg-tel-txt {
+font-size: 14px;
+padding: 10px 5px;
+margin-left: 5px;
+}
+.gr-969svg-tel-wrapper:hover > .gr-969svg-tel-txt {
+transform: scale(1.05);
+}
+/* APP */
+.gr-969svg-link-app {
+order: 1;
+width: 100%;
+margin-top: 0;
+}
+.gr-969svg-app-txt {
+font-size: 14px;
+padding: 10px 5px;
+margin-left: 5px;
+}
+.gr-969svg-app-wrapper:hover > .gr-969svg-app-txt {
+transform: scale(1.05);
+}
+/* VIBER */
+.gr-969svg-link-viber {
+order: 3;
+width: 100%;
+margin-top: 0;
+margin-left: 10px;
+}
+.gr-969svg-viber-txt {
+font-size: 14px;
+padding: 10px 5px;
+margin-left: 5px;
+}
+.gr-969svg-viber-wrapper:hover > .gr-969svg-viber-txt {
+transform: scale(1.05);
+}
+}
+
+
+
+
+
+
+
+РС в Телеграме
+
+
+
+
+
+
+
+
+
+РС в Вайбере
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+РС в мобильном
+
+
+
+
+
+
+
+
+
+
+В 2017 году Верховный суд России признал "Свидетелей Иеговы" экстремистской организацией. С того времени более пятидесяти ее сторонников подверглись уголовному преследованию. Почти всех арестованных обвиняют по статье "Организация деятельности экстремистской организации". Им грозит до десяти лет лишения свободы. При этом, как отмечает правозащитный центр "Мемориал", в решении Верховного суда "не приведено ни одного факта нарушения верующими общественного порядка, проявления агрессии или насилия с их стороны, свидетельств, что их деятельность угрожала безопасности Российской Федерации".
+Весной и летом этого года Центр "Э" провел массовые обыски и аресты последователей организации в Омске, Красноярске, Биробиджане, Оренбурге, Кемерово, Пензе и других городах. В Белгороде прошли обыски в 16 квартирах. Со всех жителей собрали отпечатки пальцев, двоих человек задержали.
+Во вторник стало известно, что в городе Елизово Камчатского края следственный комитет возбудил уголовное дело в отношении последовательницы "Свидетелей Иеговы", которой 71 год. Пожилую женщину, при этом, поместили в СИЗО. 
+В конце августа более 200 "Свидетелей Иеговы" из России попросили убежища в Финляндии.
+ 
+

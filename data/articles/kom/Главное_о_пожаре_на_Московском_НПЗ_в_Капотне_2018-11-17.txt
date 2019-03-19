@@ -1,0 +1,11 @@
+Сообщение о возгорании  на Московском НПЗ (принадлежит «Газпромнефти») в Капотне поступило в МЧС в 7:26.
+По данным МЧС, загорелась одна из двух установок высокотемпературной переработки нефти.
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+Возгорание на Московском НПЗ утром 17 ноября. Пожар продолжался около трех часов. Съемка очевидца, предоставленная "Ъ".

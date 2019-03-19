@@ -1,0 +1,52 @@
+2 ноября Дмитрий Медведев появился на заседании совета глав правительств СНГ в необычном для официального мероприятия галстуке с изображением птичьего пера. Нестандартные наряды не чужды и другим чиновникам. Предлагаем вам проверить себя на знание модных тенденций мира большой политики*.
+
+
+    var formData = "";
+$(document).ready(function () {
+        $("#getResult").click(function (event) {
+$("#getResult").css({'display' : 'none'});
+            $("#getResult_wait").css({'display' : 'inline-block'});
+formData = $("#qform").serialize();
+$.ajax({
+                url: "/interactive/standart/tests/226?stats=true", 
+                data: formData,
+                type: "post",
+                success: function (data) {
+                    if(typeof data.ErrorStatus === 'undefined')
+                    {
+                        $('html,body').animate({scrollTop: $('#StandartTestBegin').offset().top},100);
+                        $('#StandartTest').html(data);
+                    }
+                    else if (data.ErrorStatus == 'ok')
+                    {
+                        $('html,body').animate({scrollTop: $('#StandartTestBegin').offset().top},100);
+                        $('#StandartTest').html(data.Html);
+                    }
+                    else
+                    {
+                        $("#getResult").css({'display' : 'inline-block'});
+                        $("#getResult_wait").css({'display' : 'none'});
+try
+                        {
+                            alert(data.ErrorMessage);
+                        } catch(e) {
+                            alert('Требуется ответить на все вопросы');
+                        }
+                    }
+                },
+                error: function (data) {
+                    $("#getResult").css({'display' : 'inline-block'});
+                    $("#getResult_wait").css({'display' : 'none'});
+                    try
+                    {
+                         alert(data.responseJSON.ErrorMessage);
+                    } catch(e) {
+                         alert('Требуется ответить на все вопросы');
+                    }
+                }
+            });
+            return false;
+        });
+});
+
+
