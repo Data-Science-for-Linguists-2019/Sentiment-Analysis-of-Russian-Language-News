@@ -72,5 +72,11 @@ I still have to figure out how it works with Reuters, so I won't post their arti
 
 In addition to the above, I will post pickled dataframes (or maybe series I forget) with all of the articles' (other than from Reuters) lemmatized text.
 
-Apart from the article data, I also downloaded a wordnet-affect type jawn that was adapted to Russian, I'm not sure if I'll end up using it but I might as well post it. According to their site, I have to cite them as 'Sokolova M., Bobicev V. "Classification of Emotion Words in Russian and Romanian Languages". Proceedings of RANLP-2009 conference, Borovets, Bulgaria, pp. 415-419, 2009. [pdf](http://lilu.fcim.utm.md/SokolovaBobicevRANLP2009.pdf)' to use it, but that's it.
+Apart from the article data, I also downloaded a wordnet-affect type jawn that was adapted to Russian, I'm not sure if I'll end up using it but I might as well post it. According to their site, I have to cite them as 'Sokolova M., Bobicev V. "Classification of Emotion Words in Russian and Romanian Languages". Proceedings of RANLP-2009 conference, Borovets, Bulgaria, pp. 415-419, 2009. [pdf](http://lilu.fcim.utm.md/SokolovaBobicevRANLP2009.pdf) to use it, but that's it.
 
+# 9.4.2019: Progress Report 3
+
+
+--------------
+
+Continued doing topic modeling. Tried bigram and trigram models, and looked at perplexity and (UMass) coherence scores. I also attempted to use gensim's mallet wrapper which apparently performs better but got an error message. This work can be seen [here](add link).
