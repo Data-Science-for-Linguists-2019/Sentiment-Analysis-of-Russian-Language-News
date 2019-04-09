@@ -79,4 +79,4 @@ Apart from the article data, I also downloaded a wordnet-affect type jawn that w
 
 
 
-Continued doing topic modeling. Tried bigram and trigram models, and looked at perplexity and (UMass) coherence scores. I also attempted to use gensim's mallet wrapper which apparently performs better but got an error message. This work can be seen [here](add link).
+Continued doing topic modeling. Tried bigram and trigram models, and looked at perplexity and (UMass) coherence scores. I also attempted to use gensim's mallet wrapper which apparently performs better but got an error message. This work can be seen [here](https://github.com/Data-Science-for-Linguists-2019/Sentiment-Analysis-of-Russian-Language-News/blob/master/Topic_Modeling.ipynb).
