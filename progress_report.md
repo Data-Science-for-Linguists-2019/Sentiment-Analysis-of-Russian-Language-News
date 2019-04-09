@@ -1,13 +1,13 @@
 # 7.2.2019: Progress Report 0
 
 
-----------
+
 
 Create git repository
 # 25.2.2019: Progress Report 1
 
 
-----------
+
 
 
 Scraped articles from BBC (350), Kommersant (5.290), Radio Svoboda (2.929), Reuters (295), and Tass (3.060). Total is like 12.000-ish articles.<br><br>
@@ -23,7 +23,7 @@ I will probably put all my files on GitHub publicly, so people can just download
 # 19.3.2019: Progress Report 2
 
 
-----------
+
 
 Lemmatized all of the dataframes. Made LDA and LSA topic models for each of the data sets as well for all of the sites together. Found and cleaned a set of Russian words with sentiment (happy, angry, sad, etc.), grouped these sets into positive and negative, and pickled. 
 
@@ -77,6 +77,6 @@ Apart from the article data, I also downloaded a wordnet-affect type jawn that w
 # 9.4.2019: Progress Report 3
 
 
---------------
+
 
 Continued doing topic modeling. Tried bigram and trigram models, and looked at perplexity and (UMass) coherence scores. I also attempted to use gensim's mallet wrapper which apparently performs better but got an error message. This work can be seen [here](add link).
