@@ -1,7 +1,7 @@
 # Sentiment-Analysis-of-Russian-Language-News
 ## Patrick Stoyer; pjs96@pitt.edu; 10/26/2019
 The intention of these project was to analyze the sentiment of news sources in Russian, both from inside and outside of Russia. The data was scraped from the following five news sites: Reuters, BBC, Kommersant, Radio Svoboda, Tass.
-[Here](https://github.com/Data-Science-for-Linguists-2019/Class-Plaza/blob/master/guestbooks/guestbook_patrick.md) is my guestbook. [Here](https://github.com/Data-Science-for-Linguists-2019/Sentiment-Analysis-of-Russian-Language-News/blob/master/progress_report.md) is my progress report.
+[Here](https://github.com/Data-Science-for-Linguists-2019/Class-Plaza/blob/master/guestbooks/guestbook_patrick.md) is my guestbook. [Here](https://github.com/Data-Science-for-Linguists-2019/Sentiment-Analysis-of-Russian-Language-News/blob/master/progress_report.md) is my progress report. [Here](https://github.com/Data-Science-for-Linguists-2019/Sentiment-Analysis-of-Russian-Language-News/blob/master/final_report.md) is my final report.
 - [This folder](https://github.com/Data-Science-for-Linguists-2019/Sentiment-Analysis-of-Russian-Language-News/tree/master/data/info) contains csv files with the url, name and date of each article scraped. 
 
 - [This folder](https://github.com/Data-Science-for-Linguists-2019/Sentiment-Analysis-of-Russian-Language-News/tree/master/data/data_sample) contains folders with a few sample articles from the overall data set.

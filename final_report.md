@@ -14,7 +14,7 @@ In total 350 BBC articles, 5290 Kommersant articles, 2929 Radio Svoboda articles
 
 The token count was 336593 (41719 types) for BBC, 2055141 (117152 types) for Kommersant, 708533 (57054 types) for Radio Svoboda, 91514 (14776 types) for Reuters, and 1067123 (79774 types) for TASS. BBC had the most words/article at 961.7, followed distantly by Kommersant (388.5), TASS (348.7), Reuters (310.2) and Radio Svoboda (241.9). The TTR was highest for Reuters, followed by BBC, Radio Svoboda, TASS, and finally Kommersant. This lines up neatly with the expectation that larger corpora have smaller TTRs.
 
-#### Issues with scraping
+### Issues with scraping
 
 Some of the articles that were scraped had formatting issues. For the scrape of Kommersant, for example, I forgot to add newline characters after each section of the text was parsed. For some of them I also scraped non-text sections of the articles, which had weird results. Some of these I managed to fix, but some I did not, as can be seen in the topic model results.
 
